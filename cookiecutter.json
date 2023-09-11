@@ -1,0 +1,5 @@
+{
+    "project_name": "A lowercase with hyphens name, e.g. my-new-project",
+    "project_description": "Your project description",
+    "requests_flag": "Do you need to use requests? (Y/N)"
+}
